@@ -1,4 +1,4 @@
-# [SRIDHAR ERUKULLA]
+# SRIDHAR ERUKULLA
 
 ## Data Engineer
 
