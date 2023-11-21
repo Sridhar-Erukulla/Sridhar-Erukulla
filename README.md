@@ -1,6 +1,6 @@
 # SRIDHAR ERUKULLA                                                                                                Mobile  +91 9949197710
 
-![Banner](https://your-image-url.com/banner.jpg)
+![Banner](https://github.com/Sridhar-Erukulla/Sridhar-Erukulla/blob/main/data-engineering-dl-2020-1024x401-1.png?raw=true)
 <!-- Add your image with specified width and height -->
 <img src="https://github.com/Sridhar-Erukulla/Sridhar-Erukulla/blob/main/WhatsApp%20Image%202023-11-20%20at%2011.38.49%20PM.jpeg?raw=true" alt="My Profile Picture" width="300" height="300">
 
