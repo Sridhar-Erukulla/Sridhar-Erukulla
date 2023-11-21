@@ -1,20 +1,20 @@
-# SRIDHAR ERUKULLA                                                                                                Mobile  +91 9949197710
+# SRIDHAR ERUKULLA                                                             
 
-![Banner](https://github.com/Sridhar-Erukulla/Sridhar-Erukulla/blob/main/data-engineering-dl-2020-1024x401-1.png?raw=true)
-<!-- Add your image with specified width and height -->
-<img src="https://github.com/Sridhar-Erukulla/Sridhar-Erukulla/blob/main/WhatsApp%20Image%202023-11-20%20at%2011.38.49%20PM.jpeg?raw=true" alt="My Profile Picture" width="300" height="300">
+![Banner](https://github.com/Sridhar-Erukulla/Sridhar-Erukulla/blob/main/Sridhar_1.png?raw=true)
 
-<!-- Add other content below if needed -->
-
-
-
-
-## Data Engineer
-## Database Expert
+## Data Engineer | Database Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubProfile-green)](https://github.com/your-github-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolioWebsite-orange)](https://www.your-portfolio-website.com/)
+
+---
+
+## Contact
+
+- Email: sridhar.erukulla@gmail.com
+- Phone: 9949197710
+- Location: Hyderabad, telangana-500017.
 
 ---
 
@@ -109,14 +109,6 @@
 ## Certifications
 
 - [Certification Name] - [Issuing Organization] (Month/Year)
-
----
-
-## Contact
-
-- Email: sridhar.erukulla@gmail.com
-- Phone: 9949197710
-- Location: Hyderabad, telangana-500017.
 
 ---
 
